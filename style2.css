@@ -1,4 +1,6 @@
-
+body {
+    font-family: sans-serif;
+}
 body {
     font-family: sans-serif;
     background-color: #E089D9;
@@ -50,14 +52,14 @@ header{
 }
 
 main img{
-    width: 500px;
-    height: 330px;
+    width: 400px;
+    height: 400px;
     margin: 20px;
     box-shadow: 15px 15px 10px #EFD6ED;
 }
 
 footer{
-    background-color: #f50083;
+    background-color: #BB5B8E;
 }
 
 footer a{
@@ -74,3 +76,4 @@ footer a{
 footer a:hover{
     background: linear-gradient(#EFD6ED, #E089D9);
 }
+
